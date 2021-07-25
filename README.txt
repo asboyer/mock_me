@@ -27,4 +27,4 @@ pip install pipwin
 
 pipwin install pyaudio
 
-`tHE InDUSTrIAl rEvOlUtION aNd Its coNSeQUencES hAvE bEEN A dISAsTER FOR tHe human rAce`
+tHE InDUSTrIAl rEvOlUtION aNd Its coNSeQUencES hAvE bEEN A dISAsTER FOR tHe human rAce
