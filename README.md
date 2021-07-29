@@ -39,6 +39,9 @@ python3 -m pip install pyaudio
 * python3
 
 #### Steps:
-* pip install SpeechRecognition
-* pip install pipwin
-* pipwin install pyaudio
+```bash
+pip install SpeechRecognition
+pip install pipwin
+pipwin install pyaudio
+```
+
