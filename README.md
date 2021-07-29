@@ -20,6 +20,7 @@ tHE InDUSTrIAl rEvOlUtION aNd Its coNSeQUencES hAvE bEEN A dISAsTER FOR tHe huma
 pip install SpeechRecognition
 sudo apt-get install portaudio19-dev python3-pyaudio
 pip install PyAudio
+pip install boyer
 ```
 
 ## Mac OS
@@ -32,6 +33,7 @@ pip install PyAudio
 pip install SpeechRecognition
 brew install portaudio
 python3 -m pip install pyaudio
+pip install boyer
 ```
 
 ## Windows:
@@ -43,5 +45,6 @@ python3 -m pip install pyaudio
 pip install SpeechRecognition
 pip install pipwin
 pipwin install pyaudio
+pip install boyer 
 ```
 
