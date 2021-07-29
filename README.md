@@ -1,5 +1,5 @@
 # Voice recognition Python Program
-> Program will return the meme text mock version of whatever you say
+> Program will return the meme text "mock" version of whatever you say
 ### Example:
 > Run your program in your terminal after you install your requirements
 ```bash
