@@ -8,7 +8,7 @@ python main.py
 > Say something stupid like "the industrial revolution and its consequences have been a disaster for the human race"
 > And it will return this:
 ```
-tHE InDUSTrIAl rEvOlUtION aNd Its coNSeQUencES hAvE bEEN A dISAsTER FOR tHe human rAce
+"tHE InDUSTrIAl rEvOlUtION aNd Its coNSeQUencES hAvE bEEN A dISAsTER FOR tHe human rAce" - James Notley
 ```
 # Required software
 ## Linux
